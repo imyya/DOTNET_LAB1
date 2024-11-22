@@ -1,0 +1,14 @@
+C:\Users\Maguii\source\repos\MamyaConversionHexadecimal\MamyaConversionHexadecimal\bin\Debug\net8.0\MamyaConversionHexadecimal.exe
+C:\Users\Maguii\source\repos\MamyaConversionHexadecimal\MamyaConversionHexadecimal\bin\Debug\net8.0\MamyaConversionHexadecimal.deps.json
+C:\Users\Maguii\source\repos\MamyaConversionHexadecimal\MamyaConversionHexadecimal\bin\Debug\net8.0\MamyaConversionHexadecimal.runtimeconfig.json
+C:\Users\Maguii\source\repos\MamyaConversionHexadecimal\MamyaConversionHexadecimal\bin\Debug\net8.0\MamyaConversionHexadecimal.dll
+C:\Users\Maguii\source\repos\MamyaConversionHexadecimal\MamyaConversionHexadecimal\bin\Debug\net8.0\MamyaConversionHexadecimal.pdb
+C:\Users\Maguii\source\repos\MamyaConversionHexadecimal\MamyaConversionHexadecimal\obj\Debug\net8.0\MamyaConversionHexadecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maguii\source\repos\MamyaConversionHexadecimal\MamyaConversionHexadecimal\obj\Debug\net8.0\MamyaConversionHexadecimal.AssemblyInfoInputs.cache
+C:\Users\Maguii\source\repos\MamyaConversionHexadecimal\MamyaConversionHexadecimal\obj\Debug\net8.0\MamyaConversionHexadecimal.AssemblyInfo.cs
+C:\Users\Maguii\source\repos\MamyaConversionHexadecimal\MamyaConversionHexadecimal\obj\Debug\net8.0\MamyaConversionHexadecimal.csproj.CoreCompileInputs.cache
+C:\Users\Maguii\source\repos\MamyaConversionHexadecimal\MamyaConversionHexadecimal\obj\Debug\net8.0\MamyaConversionHexadecimal.dll
+C:\Users\Maguii\source\repos\MamyaConversionHexadecimal\MamyaConversionHexadecimal\obj\Debug\net8.0\refint\MamyaConversionHexadecimal.dll
+C:\Users\Maguii\source\repos\MamyaConversionHexadecimal\MamyaConversionHexadecimal\obj\Debug\net8.0\MamyaConversionHexadecimal.pdb
+C:\Users\Maguii\source\repos\MamyaConversionHexadecimal\MamyaConversionHexadecimal\obj\Debug\net8.0\MamyaConversionHexadecimal.genruntimeconfig.cache
+C:\Users\Maguii\source\repos\MamyaConversionHexadecimal\MamyaConversionHexadecimal\obj\Debug\net8.0\ref\MamyaConversionHexadecimal.dll
